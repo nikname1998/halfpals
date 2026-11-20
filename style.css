@@ -14,3 +14,5 @@ nav a:nth-child(2n){background:var(--larno)}
 .small{font-size:.9em;opacity:.75}
 footer{text-align:center;margin-top:28px;font-size:.9em}
 @media (prefers-color-scheme: dark){body{background:linear-gradient(90deg,#5a3010 0 50%,#16226E 50% 100%)}}
+.top{margin:0 0 4px;font-size:.95em}
+.top a{text-decoration:none;font-weight:700}
